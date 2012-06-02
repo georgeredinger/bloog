@@ -1,0 +1,4 @@
+== Welcome to objecy Rails
+
+Avdi Grimms example bloog from hist book 'Objects on rails'
+

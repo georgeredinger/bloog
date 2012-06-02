@@ -22,8 +22,9 @@ end
 
 gem 'jquery-rails'
 
-group :test do
+group :test, :development do
   gem 'minitest-spec-rails'
+  gem 'guard-minitest'
 end
 
 # To use ActiveModel has_secure_password

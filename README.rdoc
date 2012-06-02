@@ -1,4 +1,4 @@
-== Welcome to objecy Rails
+== Welcome to objecty Rails
 
-Avdi Grimms example bloog from hist book 'Objects on rails'
+Avdi Grimms example bloog from his book 'Objects on rails'
 
